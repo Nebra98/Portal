@@ -54,6 +54,9 @@
                             @endif
                         @else
                             @can('delete-users')
+                            <li>
+                                <a class="nav-link" href="{{ route('news.create') }}"> Napiši novu vijest</a>
+                            </li>
                                 <li>
                                     <a class="nav-link" href="{{ route('category.create') }}"> Napravi novu kategoriju</a>
                                 </li>
