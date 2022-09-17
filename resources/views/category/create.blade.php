@@ -4,7 +4,7 @@
 @section('content')
     <div class="container">
        <div class="text-center">
-            <a href="{{ route('category.index') }}" class="button secondary">Back</a>
+            <a href="{{ route('home') }}" class="button secondary">Back</a>
         </div>
     <hr>
 
