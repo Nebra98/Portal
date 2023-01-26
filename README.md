@@ -5,6 +5,6 @@ Mogućnosti:
 - dodavanje novih kategorija vijesti
 - dodavanje vijesti
 - uređivanje vijesti
-- Brisanje vijestiwe
+- Brisanje vijesti
     
 Web aplikacija je napisana korištenjem Laravel Web frameworka, kao baza podataka koristi se MySQL.
